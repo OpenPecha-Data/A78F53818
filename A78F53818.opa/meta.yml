@@ -1,0 +1,22 @@
+id: A78F53818
+title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+type: translation
+pechas:
+- I50733934
+- I0C455147
+- I12823081
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:52:36.024060
+  last_modified_at: 2023-01-04 11:52:36.024071
+  collections:
+  - Fourteenth Dalai Lama Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I50733934/20E0: 215E
+  I0C455147/CC5A: 215E
+  I12823081/E8E4: 215E
